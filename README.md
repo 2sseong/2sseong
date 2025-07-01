@@ -1,12 +1,12 @@
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hugo's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=IoT%20CSharp,Java,Python%20Lecturer"/>
+  <a href="https://github.com/2sseong">
+    <img src="https://capsule-render.vercel.app/api?type=soft&height=250&color=gradient&text=2sseong's%20Repository&reversal=false&textBg=false&fontSize=50&animation=twinkling"/>
   </a>
 </p>
 
 ## Profile
-- `Name` : Sung MyungGun (Hugo)
-- `Email` : personar95@naver.com
+- `Name` : 이성훈
+- `Email` : sh999051@naver.com
 - 🔭 I'm currently working as an **IoT instructor**
   - Major : C#, Smart Factory, IoT Development
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
@@ -14,16 +14,14 @@
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+  <a href="https://github.com/2sseong">
+    <img src="https://github-readme-stats.vercel.app/api?username=2sseong&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2sseong&theme=tokyonight&layout=compact"/>
   </a>
 </p>
 
 ## Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" title="C#">
-    <img height="40" src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" title="C++">
     <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
     <img width="40" height="40" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin" title="Kotlin">
