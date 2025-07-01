@@ -4,6 +4,14 @@
   </a>
 </p>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=2sseong&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/2sseong"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ## Profile
 - `Name` : 이성훈
 - `Email` : sh999051@naver.com
