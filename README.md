@@ -43,6 +43,9 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
 </p>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=2sseong&theme=onedark&hide_border=true"/>
+</p>
 
 <!--
 ## 기술명세
