@@ -7,9 +7,7 @@
 ## Profile
 - `Name` : 이성훈
 - `Email` : sh999051@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+- 신입 개발자 이성훈입니다.
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
