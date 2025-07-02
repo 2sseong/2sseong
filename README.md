@@ -64,8 +64,8 @@
 
 # Project List
 - [Website] [Personal Portfolio site](https://2sseong.github.io)
-- [kiosk] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [Website] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
+- [kiosk] [영화예매 키오스크 프로젝트](https://github.com/2sseong/mini_project_2025-03)
+- [Website] [IT자격증 정보공유 웹사이트 프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
