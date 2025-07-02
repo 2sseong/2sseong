@@ -12,12 +12,12 @@
   />
 </a>
   
-## Profile
+# Profile
 - `Name` : 이성훈
 - `Email` : sh999051@naver.com
 - 신입 개발자 이성훈입니다.
  
-## GitHub Stat and Languages
+# GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
   <a href="https://github.com/2sseong">
@@ -29,7 +29,7 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=2sseong&theme=onedark&hide_border=true"/>
 </p>
 
-## Using Languages
+# Using Languages
 <p align='left'>
     <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
     <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
@@ -39,7 +39,7 @@
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
 </p>
 
-## Using Technics
+# Using Technics
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
   <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
@@ -47,7 +47,7 @@
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
 </p>
 
-## Using Tools
+# Using Tools
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
@@ -62,12 +62,10 @@
 |Python | 빅데이터분석, 머신러닝, OpenCV|
 -->
 
-## Project List
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
-- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
-- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
+# Project List
+- [Website] [Personal Portfolio site](https://2sseong.github.io)
+- [kiosk] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
+- [Website] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
+
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
