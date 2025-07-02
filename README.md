@@ -65,7 +65,7 @@
 # Project List
 - [Website] [Personal Portfolio site](https://2sseong.github.io)
 - [kiosk] [영화예매 키오스크 프로젝트](https://github.com/2sseong/mini_project_2025-03)
-- [Website] [IT자격증 정보공유 웹사이트 프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
+- [Website] [IT자격증 정보공유 웹사이트 프로젝트](https://github.com/park0609/Mini_Project2)
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
