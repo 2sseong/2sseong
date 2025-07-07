@@ -31,25 +31,25 @@
 
 # Using Languages
 <p align='left'>
-    <img height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
-    <img height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
-    <img height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
+    <img width="40" height="40" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" title="Python">
+    <img width="40" height="40" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" title="Java">
+    <img width="40" height="40" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" title="Javascript">
     <img width="40" height="40" src="https://img.icons8.com/nolan/64/oracle-logo.png" alt="oracle-logo" title="Oracle">
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db" title="MySQL/MariaDB">
 </p>
 
 # Using Technics
 <p align='left'>
-  <img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
-  <img height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
-  <img height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
+  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring Boot">  
+  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=VZfYlLgRZtdK&format=png&color=000000" title="FullStack"> 
+  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=n73CzMVjH9X9&format=png&color=000000" title="Data Analysis"> 
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" title="Docker">
 </p>
 
 # Using Tools
 <p align='left'>
-  <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
-  <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
+  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
+  <img width="40" height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
 </p>
 
 
